@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="./assets/logo.svg" alt="Orinal logo" width="500" />
+   <img src="./assets/logo.svg" alt="Orinal logo" width="520" />
 </p>
 
 
@@ -7,7 +7,7 @@
 Orinal – tiny bootable kernel (for learning and experimentation)
 </h2>
 
-
+---
 
 Orinal is a minimalist x86 boot sector (small and self-contained) for learning how early boot and interrupt handling work. It sets up a flat 32-bit protected mode, prints to VGA text memory, and logs keyboard scancodes via IRQ1.
 
