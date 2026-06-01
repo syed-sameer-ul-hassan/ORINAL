@@ -1,0 +1,13 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <style><![CDATA[
+    :root { --fg: #000; }
+    @media (prefers-color-scheme: dark) { :root { --fg: #fff; } }
+  ]]></style>
+ <g id="Layer_1">
+  <title>Layer 1</title>
+  <ellipse ry="0.5" rx="0.5" id="svg_1" cy="205.57692" cx="82.96152" stroke="var(--fg)" fill="var(--fg)"/>
+  <path transform="rotate(-49.4236 173.418 300)" stroke="var(--fg)" id="svg_2" d="m173.41845,424.66924c-51.91861,0 -93.97268,-55.79108 -93.97268,-124.66895c0,-68.87788 42.05407,-124.66895 93.97268,-124.66895c51.91861,0 93.97268,55.79108 93.97268,124.66895c0,68.87788 -42.05407,124.66895 -93.97268,124.66895z" opacity="undefined" stroke-dasharray="5,5" stroke-width="49" fill="none"/>
+  <ellipse ry="0.5" rx="0.5" id="svg_5" cy="205.57692" cx="82.96152" stroke="var(--fg)" fill="var(--fg)"/>
+  <text transform="rotate(-0.398442 525.619 299.878) matrix(6.17523 0 0 10.216 -2128.82 -1763.42)" stroke="var(--fg)" xml:space="preserve" text-anchor="start" font-family="Noto Sans JP" font-size="24" id="svg_7" y="210.05994" x="393.19451" stroke-width="0" fill="var(--fg)">RINAL</text>
+ </g>
+</svg>
