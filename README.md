@@ -1,3 +1,13 @@
+<div align="center">
+
+| **Side Project Notice** |
+| :--- |
+| This is a personal, passion project with no current plans for a major feature release. However, I intend to occasionally update it, improve the code, and roll out new releases over time. |
+
+</div>
+
+
+
 <p align="center">
    <img src="./assets/logo.svg" alt="Orinal logo" width="520" />
 </p>
